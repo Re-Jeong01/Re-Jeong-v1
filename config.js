@@ -9,6 +9,7 @@ global.autoJoin = false
 global.antilink = false 
 global.versisc = '1.0' 
 global.codeInvite = ""
+global.sessionName = 'session'
 global.isLink = ' ' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
