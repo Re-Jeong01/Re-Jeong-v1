@@ -1,0 +1,18 @@
+{
+	"name": "MD-KILLER",
+	"description": "fuck u",
+	"repository": "https://github.com/Cod3Uchiha/Md-Killer",
+	"logo": "https://telegra.ph/file/e5447f16b515998d66350.jpg",
+	"keywords": ["multi-device"],
+"buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
