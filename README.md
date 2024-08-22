@@ -32,7 +32,7 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 
 
 
-  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐑𝐞-𝐉𝐞𝐨𝐧𝐠 𝐕𝟎𝟐**
+  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐑𝐞-𝐉𝐞𝐨𝐧𝐠 𝐕1**
 
  
 
