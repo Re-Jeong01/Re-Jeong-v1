@@ -52,7 +52,7 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
    **𝐆𝐄𝐓 𝐂𝐑𝐄𝐃𝐈𝐓.𝐉𝐒𝐎𝐍 𝐁𝐘**
 
    
-<a href=(https://spider-classic-pairing.onrender.com) target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://spider-classic-pairing.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
  
 
