@@ -94,6 +94,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](/blob/main/LICENSE)
+[MIT License](https://github.com/Re-Jeong01/Re-Jeong-v1/blob/main/LICENSE)
 
 YOU WILL DIE🪦
