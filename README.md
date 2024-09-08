@@ -10,6 +10,16 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
   
 </h1> 
 <p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> 𝚛𝚎-𝚓𝚎𝚘𝚗𝚐- 𝚟1  </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚋𝚞𝚐 𝚋𝚘𝚝 </p>
+</p>
+<p align="center">
+<a href="https://github.com/Re-Jeong01"><img title="Author" src="https://img.shields.io/badge/LADIES-BU-V1-black?style=for-the-badge&logo=twitter"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Re-Jeong01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Re-Jeong01?label=Followers&style=social"></a>
+<a href="https://github.com/Re-Jeong01/LADIES-BUG-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Re-Jeong01/LADIES-BUG-V1?&style=social"></a>
+<a href="https://github.com/Re-Jeong01/LADIES-BUG-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Re-Jeong01/LADIES-BUG-V1?style=social"></a>
+<a href="https://github.com/Re-Jeong01/LADIES-BUG-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Re-Jeong01/LADIES-BUG-V1?label=Watching&style=social"></a>
+</p>
 
 
   
