@@ -74,4 +74,26 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
       href='https://dashboard.heroku.com/new?template=https://github.com/Re-Jeong01/Re-Jeong-v1/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
+***Tap the WhatsApp logo below to join our channel and group for updates***
+
+<p align="left">
+  <a aria-label="Join our group for updates" href="https://chat.whatsapp.com/J2oWPX2cbpV0SXtBf2YDF8" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+<p align="left">
+  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+Incase of any issues, contact me  [here](https://wa.me/+27623649420) via WhatsApp.
+
+Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
+
+
+## License
+
+[MIT License](/blob/main/LICENSE)
+
 YOU WILL DIE🪦
