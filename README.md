@@ -55,14 +55,16 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 **star✨ my repo if you like this bot🤖**
 
 
-   **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
+## Pairing:
 
-  
 
-   **𝐆𝐄𝐓 𝐂𝐑𝐄𝐃𝐈𝐓.𝐉𝐒𝐎𝐍 𝐁𝐘**
+- ***`Get your Creds.js` by  [`PAIRING CODE HERE`](https://spider-classic-pairing.onrender.com). `or` [`HERE`](https://spider-classic-pairing.onrender.com).***
 
+
+
+- Then `Go-to WhatsApp > Three dots > Linked Devices`
+   - You will get a session ID in your WhatsApp. Copy it.
    
-<a href='https://spider-classic-pairing.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
  
 
