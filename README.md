@@ -30,27 +30,16 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 </div>
 
 
-    
- 
- 
-
-
-
 ---
 
 
+ ## SET-UP
 
+## Fork
 
+<h2 align="center">   
 
-  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐑𝐞-𝐉𝐞𝐨𝐧𝐠 𝐕1**
-
- 
-
-
-  **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
-
-
-<a href="https://github.com/Re-jeong01/Re-jeong-v1/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Re-jeong01/Re-jeong-v1/fork)***
 
 **star✨ my repo if you like this bot🤖**
 
@@ -75,15 +64,16 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
  
 
 
-  **𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔(SAFE 100 %)**
+## Heroku Setup:
 
-<a
-      href='https://signup.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-CREAT -purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
+   - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-<a
-      href='https://dashboard.heroku.com/new?template=https://github.com/Re-Jeong01/Re-Jeong-v1/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Re-Jeong01/Re-Jeong-v1).***
+
+-***`Paste your creds in the session folder 📁 Create new app,link it to your GitHub and deploy then start the worker.`***
+
+-***`If you plan to host the bot in your server, vps, locally or panel you can get session and paste it in the session folder and download the zip`***
 
 
 ***Tap the WhatsApp logo below to join our channel and group for updates***
