@@ -77,12 +77,12 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 ***Tap the WhatsApp logo below to join our channel and group for updates***
 
 <p align="left">
-  <a aria-label="Join our group for updates" href="https://chat.whatsapp.com/J2oWPX2cbpV0SXtBf2YDF8" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h" target="_blank">
+  <a aria-label="Join our group for updates" href="https://chat.whatsapp.com/J2oWPX2cbpV0SXtBf2YDF8" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
