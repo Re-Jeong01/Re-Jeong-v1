@@ -47,7 +47,7 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 ## Pairing:
 
 
-- ***`Get your Creds.js` by  [`PAIRING CODE HERE`](https://spider-classic-pairing.onrender.com). `or` [`HERE`](https://spider-classic-pairing.onrender.com).***
+- ***`Get your Creds.js` by  [`PAIRING CODE HERE`](https://spider-classic-pairing.onrender.com).
 
 
 
