@@ -23,7 +23,7 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 
 
   </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Re-Jeong}/count.svg" alt="Re-Jeong-v1:: Visitor's Count"/></p>
 
 
   <div align="center">
